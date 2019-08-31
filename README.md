@@ -5,7 +5,7 @@ O projeto tem como funcionalidade organizar e gerenciar as notas de disciplinas 
 
 ## Funcionalidades
 
-1- Cadastrar um nota de determinada disciplina
+1- Cadastrar um nota de determinada disciplina (MELINA: adicionar uma funcionalidade de personalizar como serão as notas de uma disciplina. Por exemplo: Disciplina X tem 3 provas (50% da nota total), projeto (30%) e 5 minitestes (20%). Então, para cadastrar a nota, escolhe se é prova, projeto ou miniteste e adiciona.)
 
 2- Atualizar nota de determinada disciplina
 
